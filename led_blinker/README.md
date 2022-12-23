@@ -7,7 +7,7 @@ This mini project makes an led blink on an Arduino Nano R3.
 # Screen shot of the application
 |             Breadboard         |
 | :----------------------------------: |
-| ![](/screenshots/blinker.png) |
+| ![](/screenshots/blinker.jpg) |
 ---
 ### Technology stack
 1. Arduino Uno R3
