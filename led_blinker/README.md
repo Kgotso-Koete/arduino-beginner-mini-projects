@@ -7,7 +7,7 @@ This mini project makes an led blink on an Arduino Nano R3.
 # Screen shot of the application
 |             Breadboard         |
 | :----------------------------------: |
-| ![](/screenshots/blinker.jpg) |
+| ![](./screenshots/blinker.jpg) |
 ---
 ### Technology stack
 1. Arduino Uno R3
@@ -15,8 +15,10 @@ This mini project makes an led blink on an Arduino Nano R3.
 ### Install the project on Linux or Windows:
 1. Install the [Arduino Desktop](https://docs.arduino.cc/software/ide-v1/tutorials/Windows) IDE
 2. Follow these instructions from the led blinker [tutorial](https://youtu.be/tOZvSSKP0ek)
+---
 ### Acknowledgements
 Thank you to [Sushma Shri](https://www.youtube.com/@sushmasri7238) for the tutorial [tutorial](https://youtu.be/tOZvSSKP0ek)
+---
 <br/>
 <br/>
 ---
