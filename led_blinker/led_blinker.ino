@@ -1,8 +1,6 @@
 /*
   LED BLINKING USING ARDUINO UNO
-
   This mini project makes an led blink on an Arduino Nano R3
-
   Tutorial by Sushma Shri: https://www.youtube.com/@sushmasri7238
   Tutorial link: https://youtu.be/tOZvSSKP0ek
   This example code is in the public domain.
